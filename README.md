@@ -1,11 +1,9 @@
-**Hello**
-\
-\
-My name's Zak, i'm a computer science student at the Leeds Beckett University! 
-\
-\
-**<ins>Projects on replit</ins>**
-\
-Madforgames: https://madforgames.repl.co/
-\
-Portfolio: https://replit.com/@zrichards9969
+# Hello Github
+My name is Zak, i study computer science at LBU and enjoy coding projects primarily in the Java\
+and python programming languages.
+<br/><br/><br/>
+
+## Projects
+- **[Madforgames Website](https://madforgames.repl.co/)**
+- **[Replit Portfolio](https://replit.com/@zrichards9969)**
+- **[Ducky Clicker](https://github.com/zakr0112/DuckyClicker/releases)**
